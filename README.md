@@ -24,8 +24,8 @@ git push origin main
 Agencia Web
 ##
 Integrantes
--Nombre A
--Nombre B
+-samuel molina
+-brahim gomez
 ##
 Tecnologías usadas
 -HTML5

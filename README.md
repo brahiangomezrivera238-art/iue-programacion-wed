@@ -1,8 +1,8 @@
 
 # Agencia Web
 ## Integrantes
-- Nombre A
-- Nombre B
+- Nombre brahain david gomez 
+- Nombre samuel molina perez 
 ## Tecnologías usadas
 - HTML5
 - Git
